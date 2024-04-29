@@ -1,0 +1,15 @@
+*{
+    margin: 0
+    ;
+    padding: 0
+    ;
+}
+ul li{
+    font-size: 15px;
+}
+#container{
+    background-color: rgb(10, 10, 55);
+}
+#txt_color,li{
+    color: skyblue;
+}
